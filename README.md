@@ -96,6 +96,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Cloud Build](https://cloud.google.com/build) – Build, test, and deploy automation.
 - [Cloud Deploy](https://cloud.google.com/deploy) – CI/CD for Kubernetes.
 - [Artifact Registry](https://cloud.google.com/artifact-registry) – Container and artifact storage.
+- [gcp-local](https://github.com/GuitarWag/gcp-local) – Single-binary local emulator for Google Cloud services. Real SDK compatibility (Go, Python, TypeScript) via the standard `*_EMULATOR_HOST` environment variables. No Docker, no Java.
 - [Skaffold](https://github.com/GoogleContainerTools/skaffold) – Kubernetes workflow automation.
 
 ## SDKs & Libraries
