@@ -1,4 +1,4 @@
-# Awesome Google Cloud Platform (GCP) [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Google Cloud Platform (GCP) [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1106659624.svg)](https://doi.org/10.5281/zenodo.19673362)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -138,10 +138,10 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- [Awesome Web Development](https://github.com/awesomelistsio/awesome-web-development)
-- [Awesome Cloud Computing](https://github.com/awesomelistsio/awesome-cloud-computing)
-- [Awesome DevOps](https://github.com/awesomelistsio/awesome-devops)
-- [Awesome AI Infrastructure](https://github.com/awesomelistsio/awesome-ai-infrastructure)
+- [Awesome Web Development](https://github.com/brandonhimpfen/awesome-web-development)
+- [Awesome Cloud Computing](https://github.com/brandonhimpfen/awesome-cloud-computing)
+- [Awesome DevOps](https://github.com/brandonhimpfen/awesome-devops)
+- [Awesome AI Infrastructure](https://github.com/brandonhimpfen/awesome-ai-infrastructure)
 
 ## Contribute
 
